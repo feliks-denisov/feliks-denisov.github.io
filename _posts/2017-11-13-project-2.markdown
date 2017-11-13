@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 11
+
+img: upakovka.png
+page_images:
+    - filename: upakovka.png
+      desc: Упаковка
+alt: Упаковка
+description: Упаковка
+title: Упаковка
+---

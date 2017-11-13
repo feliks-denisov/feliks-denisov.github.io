@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 5
+
+img: pressform-schotka.png
+page_images:
+    - filename: pressform-schotka.png
+      desc: Пресс-форма на щетку
+alt: Пресс-форма на щетку
+description: Пресс-форма на щетку
+title: Пресс-форма на щетку
+---

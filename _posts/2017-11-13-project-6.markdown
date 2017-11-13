@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 6
+img: hydrostation.png
+page_images:
+    - filename: hydrostation.png
+      desc: Гидростанция
+alt: Гидростанция
+description: Гидростанция
+title: Гидростанция
+---

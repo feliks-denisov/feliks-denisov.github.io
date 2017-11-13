@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 9
+
+img: oprokidyvatel.png
+page_images:
+    - filename: oprokidyvatel.png
+      desc: Опрокидыватель контейнеров
+alt: Опрокидыватель контейнеров
+description: Опрокидыватель контейнеров
+title: Опрокидыватель контейнеров
+---

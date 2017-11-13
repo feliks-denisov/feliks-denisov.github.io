@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 12
+
+img: shtamp-gib.png
+page_images:
+    - filename: shtamp-gib.png
+      desc: Штамп гибочный
+alt: Штамп гибочный
+description: Штамп гибочный
+title: Штамп гибочный
+---

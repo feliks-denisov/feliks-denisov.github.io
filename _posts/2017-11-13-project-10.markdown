@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+img: pressform-uplotneniye.png
+page_images:
+    - filename: pressform-uplotneniye.png
+      desc: Пресс-форма на уплотнение
+alt: Пресс-форма на уплотнение
+description: Пресс-форма на уплотнение
+title: Пресс-форма на уплотнение
+---

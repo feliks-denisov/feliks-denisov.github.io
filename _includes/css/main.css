@@ -16,6 +16,25 @@ p.small {
     font-size: 16px;
 }
 
+p.image-caption {
+    font-family: monospace;
+    font-size: small;
+    margin-top: -40px;
+    line-height: 50px;
+}
+
+p.project-description {
+    margin-bottom: 50px;
+}
+
+p.project-name-on-grid {
+    white-space:nowrap;
+    overflow:hidden;
+    text-align: center;
+    font-color: gray;
+    font-size: 80%;
+}
+
 a,
 a:hover,
 a:focus,
@@ -48,7 +67,7 @@ hr.star-primary {
 
 hr.star-light:after,
 hr.star-primary:after {
-    content: "\f005";
+    content: "\f111";
     display: inline-block;
     position: relative;
     top: -.8em;

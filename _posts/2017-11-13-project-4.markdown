@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 13
+
+img: shtamp-vyt.png
+page_images:
+    - filename: shtamp-vyt.png
+      desc: Штамп вытяжной
+alt: Штамп вытяжной
+description: Штамп вытяжной
+title: Штамп вытяжной
+---

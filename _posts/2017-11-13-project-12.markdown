@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+
+img: pressform.png
+page_images:
+    - filename: pressform.png
+      desc: Пресс-форма
+alt: Пресс-форма
+description: Пресс-форма
+title: Пресс-форма
+---

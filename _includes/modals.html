@@ -14,9 +14,17 @@
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <p>{{ post.description }}</p>
-                            <button type="button" class="btn btn-default" data-dismiss="modal">Назад</button>
+<!--                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}"> -->
+                            <p class="project-description">{{ post.description }}</p>
+
+			    {% for image in post.page_images %}
+                                <a href="img/portfolio/{{ image.filename }}">
+				    <img src="img/portfolio/{{ image.filename }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+				</a>
+				<p class="image-caption">{{ image.desc }}</p>
+			    {% endfor %}
+
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
                         </div>
                     </div>
                 </div>

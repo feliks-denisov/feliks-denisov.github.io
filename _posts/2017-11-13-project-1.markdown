@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 10
+img: val-italian.png
+page_images:
+    - filename: val-italian.png
+      desc: Вал к итальянском станку
+alt: Вал к итальянском станку
+description: Вал к итальянском станку
+title: Вал к итальянском станку
+---

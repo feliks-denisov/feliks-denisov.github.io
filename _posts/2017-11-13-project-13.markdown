@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 8
+
+img: cherv.png
+page_images:
+  - filename: cherv.png
+    desc: М1.001 Червяк
+  - filename: cherv-koleso.png
+    desc: М2.000 СБ Колесо червячное
+alt: Червячная пара
+description: Червячная пара:"М1.001-Червяк", "М2.000 СБ Колесо червячное"
+title: Червячная пара
+---

@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+
+img: shkaf-upravleniya.png
+page_images:
+    - filename: shkaf-upravleniya.png
+      desc: Шкаф управления
+alt: Шкаф управления
+description: Шкаф управления
+title: Шкаф управления
+---

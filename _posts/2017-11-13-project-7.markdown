@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 7
+
+img: shpindel.png
+page_images:
+    - filename: shpindel.png
+      desc: Шпиндель
+alt: Шпиндель
+description: Шпиндель
+title: Шпиндель
+---
