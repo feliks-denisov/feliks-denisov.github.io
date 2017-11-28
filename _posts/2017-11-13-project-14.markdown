@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 14
+
+img: most.jpg
+page_images:
+  - filename: most.jpg
+    desc: Мост
+alt: Мост
+description: Мост
+title: Мост
+---

@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 8
+
+img: cherv.png
+page_images:
+  - filename: cherv-koleso.png
+    desc: Колесо червячное
+alt: Колесо червячное
+description: Колесо червячное
+title: Колесо червячное
+---

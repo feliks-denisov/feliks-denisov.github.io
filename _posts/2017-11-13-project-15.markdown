@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 15
+
+img: koleso.jpg
+page_images:
+  - filename: koleso.jpg
+    desc: Колесо
+alt: Колесо
+description: Колесо
+title: Колесо
+---

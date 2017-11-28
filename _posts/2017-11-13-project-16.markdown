@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 16
+
+img: val_ekstr.jpg
+page_images:
+  - filename: val_ekstr.jpg
+    desc: Вал экструдера
+alt: Вал экструдера
+description: Вал экструдера
+title: Вал экструдера
+---

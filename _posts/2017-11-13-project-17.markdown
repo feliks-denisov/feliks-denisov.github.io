@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 17
+
+img: vilka.jpg
+page_images:
+  - filename: vilka.jpg
+    desc: Вилка
+alt: Вилка
+description: Вилка
+title: Вилка
+---
